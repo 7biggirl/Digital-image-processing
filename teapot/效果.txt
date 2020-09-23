@@ -1,0 +1,14 @@
+guideFilter cost 0.8457894325256348 seconds
+fastGuideFilter cost 0.2573108673095703 seconds
+
+RMSE(outImg, dstImg): 115.334649734479
+RMSE(fastOutImg, dstImg): 115.3343746868606
+RMSE(fastOutImg, outImg): 0.0038647113177643134
+RMSE(guasImg, dstImg): 4.401616643045203
+RMSE(bilImg, dstImg): 4.394649121748599 
+
+PSNR(srcImg, dstImg): 6.891722213899504
+PSNR(outImg ,dstImg): 6.891607588056555
+PSNR(fastOutImg, dstImg): 6.891628302006032
+PSNR(guasImg, dstImg): 34.87211890801272
+PSNR(bilImg, dstImg): 34.52723741221731 
